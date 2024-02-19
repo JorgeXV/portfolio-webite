@@ -198,6 +198,13 @@ section {
     text-align: center;
 }
 
+.profile-pic {
+    justify-content: space-between;
+    height: 350px;
+    width: 490px;
+    border-radius: 1rem;
+}
+
 #socials-container {
     display: flex;
     justify-content: center;
@@ -360,7 +367,7 @@ article.icon {
     background: white;
 }
 
-/*customize this later*/
+/* under constuction cogs */
 
 .project-img {
     border-radius: 2rem;
